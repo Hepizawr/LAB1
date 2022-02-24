@@ -14,3 +14,19 @@ F:\Университет\Курс 1 Семестр 2\Структуры дан�
 F:\Университет\Курс 1 Семестр 2\Структуры даних\ДЗ\LABS\SDLab1\LAB\obj\Debug\net5.0\ref\LAB.dll
 F:\Университет\Курс 1 Семестр 2\Структуры даних\ДЗ\LABS\SDLab1\LAB\obj\Debug\net5.0\LAB.pdb
 F:\Университет\Курс 1 Семестр 2\Структуры даних\ДЗ\LABS\SDLab1\LAB\obj\Debug\net5.0\LAB.genruntimeconfig.cache
+D:\University\LABS\SOD\SDLab1\LAB\bin\Debug\net5.0\LAB.exe
+D:\University\LABS\SOD\SDLab1\LAB\bin\Debug\net5.0\LAB.deps.json
+D:\University\LABS\SOD\SDLab1\LAB\bin\Debug\net5.0\LAB.runtimeconfig.json
+D:\University\LABS\SOD\SDLab1\LAB\bin\Debug\net5.0\LAB.runtimeconfig.dev.json
+D:\University\LABS\SOD\SDLab1\LAB\bin\Debug\net5.0\LAB.dll
+D:\University\LABS\SOD\SDLab1\LAB\bin\Debug\net5.0\ref\LAB.dll
+D:\University\LABS\SOD\SDLab1\LAB\bin\Debug\net5.0\LAB.pdb
+D:\University\LABS\SOD\SDLab1\LAB\obj\Debug\net5.0\LAB.csproj.AssemblyReference.cache
+D:\University\LABS\SOD\SDLab1\LAB\obj\Debug\net5.0\LAB.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\LABS\SOD\SDLab1\LAB\obj\Debug\net5.0\LAB.AssemblyInfoInputs.cache
+D:\University\LABS\SOD\SDLab1\LAB\obj\Debug\net5.0\LAB.AssemblyInfo.cs
+D:\University\LABS\SOD\SDLab1\LAB\obj\Debug\net5.0\LAB.csproj.CoreCompileInputs.cache
+D:\University\LABS\SOD\SDLab1\LAB\obj\Debug\net5.0\LAB.dll
+D:\University\LABS\SOD\SDLab1\LAB\obj\Debug\net5.0\ref\LAB.dll
+D:\University\LABS\SOD\SDLab1\LAB\obj\Debug\net5.0\LAB.pdb
+D:\University\LABS\SOD\SDLab1\LAB\obj\Debug\net5.0\LAB.genruntimeconfig.cache

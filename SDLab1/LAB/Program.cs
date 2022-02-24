@@ -211,7 +211,7 @@ namespace LAB
             sw.Start();
             while ((!(left >= right)) && !Found)
             {
-                Dmid = ((left + right) / 1.63);
+                Dmid = left + 0.618 * (right - left); 
 
                 mid = Convert.ToInt32(Dmid);
 
@@ -237,5 +237,6 @@ namespace LAB
         {
             Program.Menu();
         }
+
     }
 }

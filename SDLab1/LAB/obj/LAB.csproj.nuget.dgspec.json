@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Университет\\Курс 1 Семестр 2\\Структуры даних\\ДЗ\\LABS\\SDLab1\\LAB\\LAB.csproj": {}
+    "D:\\University\\LABS\\SOD\\SDLab1\\LAB\\LAB.csproj": {}
   },
   "projects": {
-    "F:\\Университет\\Курс 1 Семестр 2\\Структуры даних\\ДЗ\\LABS\\SDLab1\\LAB\\LAB.csproj": {
+    "D:\\University\\LABS\\SOD\\SDLab1\\LAB\\LAB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Университет\\Курс 1 Семестр 2\\Структуры даних\\ДЗ\\LABS\\SDLab1\\LAB\\LAB.csproj",
+        "projectUniqueName": "D:\\University\\LABS\\SOD\\SDLab1\\LAB\\LAB.csproj",
         "projectName": "LAB",
-        "projectPath": "F:\\Университет\\Курс 1 Семестр 2\\Структуры даних\\ДЗ\\LABS\\SDLab1\\LAB\\LAB.csproj",
+        "projectPath": "D:\\University\\LABS\\SOD\\SDLab1\\LAB\\LAB.csproj",
         "packagesPath": "C:\\Users\\Hepizawr\\.nuget\\packages\\",
-        "outputPath": "F:\\Университет\\Курс 1 Семестр 2\\Структуры даних\\ДЗ\\LABS\\SDLab1\\LAB\\obj\\",
+        "outputPath": "D:\\University\\LABS\\SOD\\SDLab1\\LAB\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "F:\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Hepizawr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
